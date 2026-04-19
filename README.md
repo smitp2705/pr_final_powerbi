@@ -11,7 +11,8 @@ Main page:
 dash-2
 <img width="982" height="453" alt="Screenshot 2026-04-19 233223" src="https://github.com/user-attachments/assets/306da9d3-ff0d-49a5-b5a9-f42652c4c27e" />
 dash-3
-<img width="860" height="480" alt="Screenshot 2026-04-19 233304" src="https://github.com/user-attachments/assets/6666f6e8-484e-46d3-8282-0dce9432e196" />
+<img width="749" height="460" alt="Screenshot 2026-04-19 235240" src="https://github.com/user-attachments/assets/8fc3192b-ec29-4f42-a3c9-ddc4963ab0ba" />
+
 dash-4
 <img width="860" height="480" alt="Screenshot 2026-04-19 233304" src="https://github.com/user-attachments/assets/36056bc7-456a-467c-bed0-142f1cb5ff87" />
 
