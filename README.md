@@ -14,7 +14,8 @@ dash-3
 <img width="749" height="460" alt="Screenshot 2026-04-19 235240" src="https://github.com/user-attachments/assets/8fc3192b-ec29-4f42-a3c9-ddc4963ab0ba" />
 
 dash-4
-<img width="860" height="480" alt="Screenshot 2026-04-19 233304" src="https://github.com/user-attachments/assets/36056bc7-456a-467c-bed0-142f1cb5ff87" />
+<img width="947" height="439" alt="Screenshot 2026-04-19 233317" src="https://github.com/user-attachments/assets/e11ea5c2-a785-4f66-a40f-4518856ca3c1" />
+
 
 <img width="173" height="463" alt="Screenshot 2026-04-19 233331" src="https://github.com/user-attachments/assets/fb545da5-ffb6-4dfc-a775-77b4eb17e7d7" />
 
