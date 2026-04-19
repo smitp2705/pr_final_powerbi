@@ -5,7 +5,7 @@ This Power BI report provides insights and analysis based on the PR dataset. It 
 
 Dashboard Preview
 
-(Add your dashboard screenshot here)
+
 Main page:
 <img width="1022" height="483" alt="Screenshot 2026-04-19 233147" src="https://github.com/user-attachments/assets/b88b8dd2-4823-43ed-a2c9-7808b28387ab" />
 dash-2
